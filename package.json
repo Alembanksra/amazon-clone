@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.11.0",
+    "axios": "^1.3.3",
+    "firebase-init": "^1.3.2",
+    "react-state-provider": "^0.0.4"
+  }
+}
